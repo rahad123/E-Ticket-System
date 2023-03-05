@@ -1,0 +1,14 @@
+{
+  "name": "e-ticket-system",
+  "version": "1.0.0",
+  "description": "E-Ticket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rahad",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
